@@ -292,8 +292,8 @@ a:focus-visible {
 }
 
 .page-hero .kicker-about { background: var(--charcoal-soft); border-color: var(--line); }
-.page-hero .kicker-data { background: var(--yellow-soft); border-color: #e5d58e; }
-.page-hero .kicker-politics { background: var(--pink-soft); border-color: #efc7d2; }
+.page-hero .kicker-data { background: var(--pink-soft); border-color: #efc7d2; }
+.page-hero .kicker-politics { background: var(--yellow-soft); border-color: #e5d58e; }
 
 .page-title {
   max-width: 820px;
